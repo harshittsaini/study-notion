@@ -2,7 +2,7 @@ import React from 'react'
 
 const Dashboard = () => {
   return (
-    <div>Welcome to Study Notion</div>
+    <div className="flex flex-1 justify-center items-center text-white text-3xl">Welcome to Study Notion</div>
   )
 }
 
